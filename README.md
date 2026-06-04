@@ -35,3 +35,7 @@ MQTT publish/subscribe communication
 Sensor interfacing and actuator control
 Real-time monitoring systems
 Wireless IoT communication
+
+## Circuit Diagram
+
+![Circuit Diagram](images/circuit_diagram.png)
