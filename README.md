@@ -39,8 +39,3 @@ Wireless IoT communication
 ## Circuit Diagram
 
 ![Circuit Diagram](images/circuit_diagram.png)
-
-## Demonstration
-
-Video Demo:
-https://youtu.be/zB74RBQmxC0
